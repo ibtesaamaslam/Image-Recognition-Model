@@ -1,3 +1,7 @@
+
+<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/2ec24cbb-4e76-4765-8e6a-59e0b681baed" />
+<br>
+
 # 🧠 CIFAR-10 Image Classification using CNN
 
 <div align="center">
